@@ -1,0 +1,41 @@
+body {
+  font-family: "Ivy Mode";
+}
+
+.banner-sec {
+  background-color: #F0ECE0;
+  height: 1200px;
+  padding-top: 80px;
+}
+
+.banner-div h2 {
+  font-size: 46px;
+  margin-top: 277px;
+}
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.swiper-slide {
+  opacity: 0 !important;
+}
+
+.swiper-slide-visible {
+  opacity: 1 !important;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+
+.mySwiper {
+  perspective: unset;
+}
+
+.swiper-slide-next .per-prof {
+  opacity: 0.5;
+}
